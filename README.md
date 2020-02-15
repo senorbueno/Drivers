@@ -18,5 +18,8 @@ Example usage:
 .\driverscan.ps1 -TargetDirectory "C:\temp\drivers"
 ```
 
-Credit to: narcis.mircea
+Credit to: 
+```markdown
+narcis.mircea
 scadminsblog.wordpress.com
+```
