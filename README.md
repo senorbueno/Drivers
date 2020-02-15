@@ -1,17 +1,7 @@
 ## Driverscan
 
 The PowerShell script scans and exports all third-party drivers detected in use (non-Microsoft).
-
-
-
-Tested on:
-```markdown
-Windows 7 SP1
-Windows 8.1
-Windows 2012 R2
-Windows 2016
-Windows 10 (1909)
-```
+Windows 7+
 
 Example usage:
 ```markdown
