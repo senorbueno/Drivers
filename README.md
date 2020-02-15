@@ -1,6 +1,8 @@
 ## Driverscan
 
-The script exports all third-party drivers detected in use (non-Microsoft).
+The PowerShell script scans and exports all third-party drivers detected in use (non-Microsoft).
+
+
 
 Tested on:
 ```markdown
