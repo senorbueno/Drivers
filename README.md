@@ -1,7 +1,6 @@
 ## Driverscan
 
 The PowerShell script scans and exports all third-party drivers detected in use (non-Microsoft).
-Windows 7+
 
 Example usage:
 ```markdown
@@ -15,3 +14,4 @@ Credit to:
 narcis.mircea
 scadminsblog.wordpress.com
 ```
+
