@@ -4,6 +4,9 @@
 #
 # Example usage: .\Export-Used-Drivers.ps1 -TargetDirectory "C:\temp\drivers"
 #
+# Credit to: narcis.mircea
+# scadminsblog.wordpress.com
+#
 Param (
     [Parameter(Mandatory=$false)]
     [ValidateScript({Test-Path (Split-Path $_ -Parent) -PathType Container})]
