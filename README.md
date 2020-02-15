@@ -8,22 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+Example usage:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+.\Export-Used-Drivers.ps1 -TargetDirectory "C:\temp\drivers"
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -39,8 +26,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 The script exports all third-party drivers detected in use, trying to avoid Microsoft drivers that come prepackaged inside the OS
 
 Tested on Windows 7 SP1, Windows 8.1, Windows 2012 R2, Windows 2016, and Windows 10 Pro 1909
-
-Example usage: .\Export-Used-Drivers.ps1 -TargetDirectory "C:\temp\drivers"
 
 Credit to: narcis.mircea
 scadminsblog.wordpress.com
