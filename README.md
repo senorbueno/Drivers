@@ -1,6 +1,6 @@
 ## Driverscan
 
-The script exports all third-party drivers detected in use, trying to avoid Microsoft drivers that come prepackaged inside the OS
+The script exports all third-party drivers detected in use (non-Microsoft).
 
 Tested on:
 
